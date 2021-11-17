@@ -1,0 +1,11 @@
+{
+    "name": "ishan9117/xero",
+    "description": "xero package.",
+    "autoload": {
+        "psr-4": {
+            "YourGithubUserName\\HelloWorldPackage\\": "src/https://github.com/ishan9117/xero"
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
