@@ -6,6 +6,11 @@
             "YourGithubUserName\\HelloWorldPackage\\": "src/https://github.com/ishan9117/xero"
         }
     },
+    "repositories":
+    {
+        "type": "vcs",
+        "url": "https://github.com/ishan9117/xero"
+    },
     "minimum-stability": "dev",
     "prefer-stable": true
 }
